@@ -248,7 +248,7 @@ In this task, you will create a playbook. A security playbook is a collection of
 
     >**Note**: It can take up to 5 minutes for the incident to appear on the **Microsoft Sentinel \| Incidents** blade. 
 
-    >**Note**: Review the **Microsoft Sentinel \| Playbooks** blade. You will find there the count of succesfull and failed runs.
+    >**Note**: Review the **Microsoft Sentinel | Automation** blade. Click on **Active playbooks**. You will find there the count of succesfull and failed runs.
 
     >**Note**: You have the option of assigning a different severity level and status to an incident.
 
